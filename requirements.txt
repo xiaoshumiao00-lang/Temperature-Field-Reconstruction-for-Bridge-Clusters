@@ -1,0 +1,33 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+
+# Machine learning
+xgboost>=2.0
+
+# Geospatial / geometry
+shapely>=2.0
+
+# CAD / DXF parsing
+ezdxf>=1.1
+
+# Web app
+streamlit>=1.28
+plotly>=5.18
+
+# ERA5 / climate data access
+cdsapi>=0.7
+netCDF4>=1.6
+
+# MODIS HDF handling
+pyhdf>=0.11
+
+# Data formats
+pyarrow>=12.0
+fastparquet>=2023.0
+
+# Optional: deep-learning experiments (not required for the main pipeline)
+# torch>=2.0

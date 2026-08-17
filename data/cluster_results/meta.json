@@ -1,0 +1,23 @@
+{
+  "created": "2026-08-15T12:48:59.197538",
+  "period": {
+    "start": "2024-08-12 00:00:00",
+    "end": "2024-08-18 23:00:00"
+  },
+  "config": {
+    "rho": 2400.0,
+    "cp": 920.0,
+    "k": 1.8,
+    "alpha_solar": 0.45,
+    "emissivity": 0.9,
+    "h_forced": 15.0,
+    "h_natural": 10.0,
+    "h_hole": 5.0,
+    "ws_threshold": 1.0,
+    "dx": 0.05,
+    "dt": null,
+    "longwave_mode": "none"
+  },
+  "n_bridges": 207,
+  "n_success": 207
+}

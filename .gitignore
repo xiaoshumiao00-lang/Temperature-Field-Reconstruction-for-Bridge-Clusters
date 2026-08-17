@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Large data files not meant for Git
+*.nc
+*.hdf
+*.h5
+*.tif
+*.tiff
+*.grd
+*.gz
+*.zip
+raw_data/
+
+# Intermediate output folders that can be regenerated
+outputs/
+models/
+logs/
+
+# Manuscript working files
+~$*.docx
+*.tmp
+_tmp*/
