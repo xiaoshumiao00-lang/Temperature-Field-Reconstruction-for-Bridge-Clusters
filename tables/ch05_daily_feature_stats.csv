@@ -1,0 +1,13 @@
+channel,metric,mean_bias_C,MAE_C,N_days
+N101,daily_max,-0.158,0.793,281
+N101,daily_min,-0.185,0.69,281
+N101,daily_range,0.027,0.585,281
+N109,daily_max,0.119,0.725,281
+N109,daily_min,0.063,0.599,281
+N109,daily_range,0.056,0.54,281
+N102,daily_max,-0.092,0.697,281
+N102,daily_min,-0.082,0.591,281
+N102,daily_range,-0.01,0.496,281
+N209,daily_max,0.317,0.814,281
+N209,daily_min,0.355,0.867,281
+N209,daily_range,-0.038,0.86,281
